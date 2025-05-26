@@ -1,1 +1,1 @@
-"# MaximumTripletValue "  
+# Maximum Triplet Value 
