@@ -12,4 +12,3 @@ class Solution {
         }
         return Math.max(0, maxTriplet);
     }
-}
