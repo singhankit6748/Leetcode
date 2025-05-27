@@ -25,3 +25,4 @@ class Solution {
             return list2;
         return list1;
     }
+}
